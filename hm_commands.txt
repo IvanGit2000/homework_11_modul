@@ -1,0 +1,9 @@
+git init
+.gitignore ->(*.sass, bin/, admin/, config/)
+git add .
+git commit -m "first commit"
+git branch blog
+git switch blog
+
+git remote add origin https://github.com/IvanGit2000/homework_11_modul.git
+git push -u origin master
