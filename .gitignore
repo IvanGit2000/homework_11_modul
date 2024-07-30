@@ -1,0 +1,8 @@
+# files:
+*.sass
+
+# dirs
+bin/
+admin/
+config/
+
